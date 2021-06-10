@@ -1,4 +1,5 @@
-#Versão 1.0 (9 jun. 2021)
+# Versão 1.0 (9 jun. 2021)
+
 A versão 1.0 permite o calculado das medidas de acessibilidade e centralidade (nos arquivos denominados "Centrality"), da medida de conectividade (nos arquivos "Connectivity)
 e das medidas de convergência, oportunidade e polaridade (nos arquivos "Performance").
 
