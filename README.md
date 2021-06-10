@@ -8,4 +8,4 @@ Para eventual uso em trabalhos acadêmicos, sugere-se a seguinte forma de citaç
 
 Dalcin, G.; Krafta, R. GAUS: Graph Analysis of Urban Systems. Versão 1.0. Porto Alegre: Universidade Federal do Rio Grande do Sul, 2021. Disponível em: github.com/gkdalcin/GAUS. Acesso em: 9 jun. 2021.
 
-Conta: gkdalcin@gmail.com / guilherme.dalcin@ufrgs.br
+Contato: gkdalcin@gmail.com / guilherme.dalcin@ufrgs.br
