@@ -1,5 +1,5 @@
 # GAUS: Graph Analysis of Urban Systems
-O Gaus é um conjunto de scripts para cálculo de medidas configuracionais no software QGIS (versões mais recentes que a 3.6) que foi desenvolvido no Grupo de Pesquisa em Sistemas Configuracionais Urbanos do PROPUR/UFRGS, contendo modelos concebidos pelo prof. Romulo Krafta e programação do mestrando Guilherme Dalcin. Funciona a partir do carregamento de arquivos de código Python no QGIS.
+O GAUS é um conjunto de scripts para cálculo de medidas configuracionais no software QGIS (versões mais recentes que a 3.6) que foi desenvolvido no Grupo de Pesquisa em Sistemas Configuracionais Urbanos do PROPUR/UFRGS, contendo modelos concebidos pelo prof. Romulo Krafta e programação do mestrando Guilherme Dalcin. Funciona a partir do carregamento de arquivos de código Python no QGIS.
 A versão atual do GAUS realiza, para sistemas compostos por nós e linhas ou apenas por linhas, o cálculo das medidas de acessibilidade, centralidade, oportunidade espacial, convergência espacial e polaridade.
 
 Os arquivos estão disponíveis no arquivo zip GAUS v1.0 disponibilizado acima.
